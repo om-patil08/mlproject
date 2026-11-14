@@ -1,0 +1,75 @@
+{
+  "name": "sqlite",
+  "version": "3.54.1",
+  "build": "hee5a0db_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "sqlite-3.54.1-hee5a0db_0.conda",
+  "md5": "10380875105f144ebcb3edf5ddf4f3de",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/sqlite-3.54.1-hee5a0db_0.conda",
+  "sha256": "ad16ab11e8ad65c402e5bf844d7b3517e50ec659a816754f1f3582fd65c3df28",
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "constrains": [],
+  "license": "blessing",
+  "timestamp": 1794393457000,
+  "size": 990496,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\omavi\\anaconda3\\pkgs\\sqlite-3.54.1-hee5a0db_0.conda",
+  "extracted_package_dir": "C:\\Users\\omavi\\anaconda3\\pkgs\\sqlite-3.54.1-hee5a0db_0",
+  "files": [
+    "Library/bin/sqlite3.dll",
+    "Library/bin/sqlite3.exe",
+    "Library/include/sqlite3.h",
+    "Library/include/sqlite3ext.h",
+    "Library/lib/sqlite3.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/sqlite3.dll",
+        "path_type": "hardlink",
+        "sha256": "ba0afc20a68233a6a8c9e5666b05b8333470d205a3c5fe4c1005372a145a763a",
+        "size_in_bytes": 1690952,
+        "sha256_in_prefix": "ba0afc20a68233a6a8c9e5666b05b8333470d205a3c5fe4c1005372a145a763a"
+      },
+      {
+        "_path": "Library/bin/sqlite3.exe",
+        "path_type": "hardlink",
+        "sha256": "739751655e0c01fa7dee3b98e61e56bf6b4cd58747ad37621d036ea24e07484a",
+        "size_in_bytes": 2293064,
+        "sha256_in_prefix": "739751655e0c01fa7dee3b98e61e56bf6b4cd58747ad37621d036ea24e07484a"
+      },
+      {
+        "_path": "Library/include/sqlite3.h",
+        "path_type": "hardlink",
+        "sha256": "76b316da18d70b8eda54006abd327a7334190e85a6a49b219071ec6ed8c22c59",
+        "size_in_bytes": 695864,
+        "sha256_in_prefix": "76b316da18d70b8eda54006abd327a7334190e85a6a49b219071ec6ed8c22c59"
+      },
+      {
+        "_path": "Library/include/sqlite3ext.h",
+        "path_type": "hardlink",
+        "sha256": "48963abfefb41ac329ef9d706acb5eadba952a99a748285c9ded6b5e0942721b",
+        "size_in_bytes": 39547,
+        "sha256_in_prefix": "48963abfefb41ac329ef9d706acb5eadba952a99a748285c9ded6b5e0942721b"
+      },
+      {
+        "_path": "Library/lib/sqlite3.lib",
+        "path_type": "hardlink",
+        "sha256": "afc995aa16d61a4ca380432de2264a4b7671782b470e7e53cc53106492b5a076",
+        "size_in_bytes": 69232,
+        "sha256_in_prefix": "afc995aa16d61a4ca380432de2264a4b7671782b470e7e53cc53106492b5a076"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\omavi\\anaconda3\\pkgs\\sqlite-3.54.1-hee5a0db_0",
+    "type": 1
+  }
+}
