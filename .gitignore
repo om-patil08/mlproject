@@ -1,3 +1,13 @@
+'''#agenda 
+1- set up the git hub 
+a) new environment
+b) setup.py
+c) requirement.txt
+
+2- src folder and build package
+''' 
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
